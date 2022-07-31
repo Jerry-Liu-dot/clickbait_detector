@@ -1,0 +1,113 @@
+,text,class,question,exclamation,starts_with_num,headline_words
+0,"Thumbs up?: sentiment classification using machine learning techniques",1,1,0,0,8
+1,"Seeing Stars: Exploiting class relationships for sentiment categorization",1,0,0,0,8
+2,"Respect my authority!: HITS without hyperlinks, utilizing cluster-based language models",1,0,1,0,10
+3,"You had me at hello: How phrasing affects memorability",1,0,0,0,9
+4,"Don't 'have a clue'?: unsupervised co-learning of downward-entailing operators",1,1,0,0,9
+5,"Something's Brewing! Early Prediction of Controversy-causing Posts from Discussion Features",1,0,1,0,10
+6,"Know What You Don’t Know: Unanswerable Questions for SQuAD",1,0,0,0,9
+7,"Barack’s Wife Hillary: Using Knowledge Graphs for Fact Aware Language Modelling",1,0,0,0,11
+8,"New Public Management is Dead—Long Live Digital Era Governance",1,0,0,0,9
+9,"It's a Frog's Life: A Description of the Habitat, Lifespan and Breeding Pattern of the South American Tree Frog",1,0,0,0,19
+10,"Get out the vote: Determining support or opposition from Congressional transcripts",1,0,0,0,11
+11,"Getting To Know You: User Attribute Extraction from Dialogues",1,0,0,0,9
+12,"Steel, Land and Famine: The Failure of the great leap forward",1,0,0,0,11
+13,"Past, present, future: a computational investigation of the typology of tense in 1000 languages",1,0,0,0,14
+14,"Prophets or Profits: The European colonial invasion of west Africa",1,0,0,0,10
+15,"The day the earth bled: The eruption of Mount Vesuvius",1,0,0,0,10
+16,"With pomp, with triumph, and with reveling: the conventions of Shakespearean Comedy",1,0,0,0,12
+17,"Laughter is Thy best medicine: The conventions of Shakespearean comedy",1,0,0,0,10
+18,"The failure of one, the fall of many: Mao’s great leap forward in 1950’s Communist China",1,0,0,0,16
+19,"Mighty Despair: Power and irony in “Ozymandias”",1,0,0,0,7
+20,"One trillion edges: Graph processing at Facebook-scale",1,0,0,0,7
+21,"Three and a half degrees of separation",1,0,0,0,7
+22,"SQuAD: 100,000+ Questions for Machine Comprehension of Text",1,0,0,0,8
+23,"GLOVE: Global vectors for word representation",0,0,0,0,6
+24,"Labeled LDA: A supervised topic model for credit attribution in multi-labeled corpora",0,0,0,0,12
+25,"BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",0,0,0,0,9
+26,"LAMB: A good shepherd of morphologically rich languages",1,0,0,0,8
+27,"Fairseq: A fast, extensible toolkit for sequence modeling",1,0,0,0,8
+28,"What you can cram into a single vector: Probing sentence embeddings for linguistic properties",1,0,0,0,14
+29,"Go for a walk and arrive at the answer: Reasoning over paths in knowledge bases using reinforcement learning",1,0,0,0,18
+30,"Catching the drift: Probabilistic content models, with applications to generation and summarization",1,0,0,0,12
+31,"Learning to Paraphrase: An unsupervised approach using multiple-sentence alignment",1,0,0,0,9
+32,"How opinions are received by online communities: a case study on amazon. com helpfulness votes",1,0,0,0,15
+33,"Echoes of power: Language effects and power differences in social interaction",1,0,0,0,11
+34,"PageRank without hyperlinks: Structural reranking using links induced by language models",1,0,0,0,11
+35,"For the sake of simplicity: Unsupervised extraction of lexical simplifications from Wikipedia",1,0,0,0,12
+36,"Winning Arguments: Interaction Dynamics and Persuasion Strategies in Good-faith Online Discussions",1,0,0,0,11
+37,"Better than the real thing?: iterative pseudo-query processing using cluster-based language models",1,1,0,0,12
+38,"Are adversarial examples inevitable?",1,1,0,0,4
+39,"Transfer value or policy? A value-centric framework towards transferrable continuous reinforcement learning",1,1,0,0,12
+40,"How important is a neuron?",1,1,0,0,5
+41,"How powerful are graph neural networks?",1,1,0,0,6
+42,"Do language models have commonsense?",1,1,0,0,5
+43,"Is Wasserstein all you need?",1,1,0,0,5
+44,"What’s up with NMT?",1,1,0,0,4
+45,"How well do NLI models capture verb veridicality?",1,1,0,0,8
+46,"What Does BERT Look At? An Analysis of BERT's Attention",1,1,0,0,10
+47,"Understanding back-translation at scale",1,0,0,0,4
+48,"Learning from the experience of others: Approximate empirical Bayes in Neural Networks",1,0,0,0,12
+49,"In your pace: Learning the right example at the right time",1,0,0,0,11
+50,"Learning what you can do before doing anything",1,0,0,0,8
+51,"Learning to learn by gradient descent by gradient descent",1,0,0,0,9
+52,"Like what you like: Knowledge distill via Neuron selectivity transfer",1,0,0,0,10
+53,"Don’t settle for average, Go for the max: Fuzzy sets and max-pooled word vectors",1,0,0,0,14
+54,"Look Ma, No GANs! Image Transformation with ModifAE",1,0,1,0,8
+55,"No Pressure! Addressing Problem of Local Minima in Manifold Learning",1,0,1,0,10
+56,"Backplay: 'Man muss immer umkehren'",1,0,0,0,5
+57,"Talk The Walk: Navigating Grids in New York City through Grounded Dialogue",1,0,0,0,12
+58,"Fatty and Skinny: A Joint Training Method of Watermark",1,0,0,0,9
+59,"A bird's eye view on coherence, and a worm's eye view on cohesion Beyond Winning and Losing: Modeling Human Motivations and Behaviors with Vector-valued Inverse Reinforcement Learning",1,0,0,0,27
+60,"Alignment by agreement",0,0,0,0,3
+61,"Parsing natural scenes and natural language with recursive neural networks",0,0,0,0,10
+62,"Feature-rich part-of-speech tagging with a cyclic dependency network",0,0,0,0,8
+63,"An end-to-end discriminative approach to machine translation",0,0,0,0,7
+64,"Head-driven statistical models for natural language parsing",0,0,0,0,7
+65,"Convolution kernels for natural language",0,0,0,0,5
+66,"Incremental parsing with the perceptron algorithm",0,0,0,0,6
+67,"Semi-supervised recursive autoencoders for predicting sentiment distributions",0,0,0,0,7
+68,"Reasoning with neural tensor networks for knowledge base completion",0,0,0,0,9
+69,"A lattice-based framework for enhancing statistical parsers with information from unlabeled corpora",0,0,0,0,12
+70,"Squibs: Prepositional phrase attachment without oracles",1,0,0,0,6
+71,"Stopping criteria for active learning of named entity recognition",0,0,0,0,9
+72,"A fast and accurate dependency parser using neural networks",0,0,0,0,9
+73,"Part-of-speech induction from scratch",0,0,0,0,4
+74,"Automatic detection of text genre",0,0,0,0,5
+75,"A question-answering system for German",0,0,0,0,5
+76,"Learning dependency-based compositional semantics",0,0,0,0,4
+77,"Accurate unlexicalized parsing",0,0,0,0,3
+78,"Improved inference for unlexicalized parsing",0,0,0,0,5
+79,"Simple Semi-supervised dependency parsing",0,0,0,0,4
+80,"Neural module networks",0,0,0,0,3
+81,"Globally normalized transition-based neural networks",0,0,0,0,5
+82,"Half-context language models",0,0,0,0,3
+83,"Investigating label suggestions for opinion mining in German Covid-19 social media",0,0,0,0,11
+84,"How Did This Get Funded?! Automatically Identifying Quirky Scientific Achievements",1,1,1,0,10
+85,"Engage the Public: Poll Question Generation for Social Media Posts",1,0,0,0,10
+86,"HateCheck: Functional Tests for Hate Speech Detection Models",1,0,0,0,8
+87,"Unified Dual-view Cognitive Model for Interpretable Claim Verification",0,0,0,0,8
+88,"DeepRapper: Neural Rap Generation with Rhyme and Rhythm Modeling",1,0,0,0,9
+89,"PENS: A Dataset and Generic Framework for Personalized News Headline Generation",1,0,0,0,11
+90,"Enhancing Content Preservation in Text Style Transfer Using Reverse Attention and Conditional Layer Normalization",0,0,0,0,14
+91,"Mention Flags (MF): Constraining Transformer-based Text Generators",1,0,0,0,7
+92,"Generalising Multilingual Concept-to-Text NLG with Language Agnostic Delexicalisation",0,0,0,0,8
+93,"Conversations Are Not Flat: Modeling the Dynamic Information Flow across Dialogue Utterances",1,0,0,0,12
+94,"Dual Slot Selector via Local Reliability Verification for Dialogue State Tracking",0,0,0,0,11
+95,"Transferable Dialogue Systems and User Simulators",0,0,0,0,6
+96,"BoB: BERT Over BERT for Training Persona-based Dialogue Models from Limited Personalized Data",1,0,0,0,13
+97,"GL-GIN: Fast and Accurate Non-Autoregressive Model for Joint Multiple Intent Detection and Slot Filling",1,0,0,0,14
+98,"Accelerating BERT Inference for Sequence Labeling via Early-Exit",0,0,0,0,8
+99,"Modularized Interaction Network for Named Entity Recognition",0,0,0,0,7
+100,"Capturing Event Argument Interaction via A Bi-Directional Entity-Level Recurrent Decoder",0,0,0,0,10
+101,"UniRE: A Unified Label Space for Entity Relation Extraction",1,0,0,0,9
+102,"Refining Sample Embeddings with Relation Prototypes to Enhance Continual Relation Extraction",0,0,0,0,11
+103,"Contrastive Learning for Many-to-many Multilingual Neural Machine Translation",0,0,0,0,8
+104,"Understanding the Properties of Minimum Bayes Risk Decoding in Neural Machine Translation",1,0,0,0,12
+105,"Multi-Head Highly Parallelized LSTM Decoder for Neural Machine Translation",0,0,0,0,9
+106,"A Bidirectional Transformer Based Alignment Model for Unsupervised Word Alignment",0,0,0,0,10
+107,"Learning Language Specific Sub-network for Multilingual Machine Translation",0,0,0,0,8
+108,"Exploring the Efficacy of Automatically Generated Counterfactuals for Sentiment Analysis",0,0,0,0,10
+109,"Bridge-Based Active Domain Adaptation for Aspect Term Extraction",0,0,0,0,8
+110,"Aspect-Category-Opinion-Sentiment Quadruple Extraction with Implicit Aspects and Opinions",0,0,0,0,8
+111,"PASS: Perturb-and-Select Summarizer for Product Reviews",1,0,0,0,6
